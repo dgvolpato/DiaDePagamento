@@ -13,6 +13,6 @@ public class MyActivity extends Activity {
         setContentView(R.layout.main);
 
 
-        int blah;
+
     }
 }
